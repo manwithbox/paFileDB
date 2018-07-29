@@ -1,5 +1,7 @@
 # paFileDB
 
+PHP Arena File Database
+
 **Version 3.6**
 
 PHP Arena project was discontinued about 10 years. PaFIleDB still have some advantage on other similar scripts because of its simpliness. This project has a simple goal - to make rather famous old script live again.
